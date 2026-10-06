@@ -19,11 +19,6 @@ At IFS, I work with containerised applications, CI/CD pipelines, infrastructure 
 
 I'm building further depth in **cloud, DevOps, platform and infrastructure engineering**, alongside **networking and security**. I'm interested in reliable systems, repeatable deployments, useful automation, and understanding how infrastructure behaves when things go wrong.
 
-## Projects
-
-- **[Kamus / Kamus26](https://github.com/Sasiru382/kamus)** — my work modernising an open-source Kubernetes secret encryption and decryption project.
-- **[Engineering portfolio](https://sasiru382.github.io/Portfolio-Site/)** — projects, experience, and my engineering journey.
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/sasiru-vishmika/) · [Portfolio](https://sasiru382.github.io/Portfolio-Site/) · [Email](mailto:sasiruvishmika@gmail.com)
