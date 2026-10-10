@@ -1,10 +1,10 @@
 # Hi, I'm Sasiru Vishmika 👋
 
-**Software Engineer at IFS · Cloud & DevOps · Sri Lanka**
+**Software Engineer· Cloud & DevOps · Sri Lanka**
 
 I'm a Computer Science graduate with first-class honours from IIT / the University of Westminster. My software engineering foundation supports hands-on work in cloud infrastructure, deployment automation, and DevOps operations.
 
-At IFS, I work with containerised applications, CI/CD pipelines, infrastructure automation, monitoring, and production troubleshooting. My primary cloud experience is with **Azure and GCP**.
+I work with containerised applications, CI/CD pipelines, infrastructure automation, monitoring, and production troubleshooting. My primary cloud experience is with **Azure and GCP**.
 
 ## What I work with
 
